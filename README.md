@@ -8,3 +8,5 @@
 4. pyquery 1.2.17
 5. pymongo 3.5.1
 6. selenium 3.5
+
+[blog](http://blog.csdn.net/peerslee/article/details/76525358)
